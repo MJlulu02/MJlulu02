@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjlulu02&label=Profile%20views&color=0e75b6&style=flat" alt="mjlulu02" /> </p>
 
-- 🔭 I’m currently working on <a href="https://mjlulu02.fr">**MJlulu02.fr**</a>
+- 🔭 I’m currently working on <a href="https://mjlulu02.fr" target="blank_">**MJlulu02.fr**</a>
 
 - 🌱 I’m currently learning **Java** & **Python**
 
