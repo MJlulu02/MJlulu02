@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java** & **Python**
 
-- 👯 I collaborate with **@Legion-Studio**
+- 👯 I collaborate with **@SpinforEat**
 
 - 📫 How to reach me **contact@mjlulu02.fr**
 
