@@ -22,8 +22,10 @@
   
 ## ⚙️ Tools
 
-<img src="https://cdn.discordapp.com/attachments/764516363434852352/787091367285227570/kisspng-eclipse-foundation-integrated-development-environm-eclipse-5ac24212bdda89.221547291522680338.png" width="45px" height="45px" /><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" width="45px" height="45px" /><img src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d" width="45px" height="45px" />
+<img src="https://cdn.discordapp.com/attachments/764516363434852352/787091367285227570/kisspng-eclipse-foundation-integrated-development-environm-eclipse-5ac24212bdda89.221547291522680338.png" width="50px" height="50px" /><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" width="50px" height="50px" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="50px" height="50px" />
 
 ## ☄️ Languages
 <img src="https://www.flaticon.com/svg/static/icons/svg/2393/2393313.svg" width="45px" height="45px" /> <img src="https://www.flaticon.com/svg/static/icons/svg/28/28884.svg" width="45px" height="45px" /> <img src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" width="45px" height="45px" />
+
+## 📊 Statistiques
 <p><img src="https://github-readme-stats.vercel.app/api?username=mjlulu02&show_icons=true&locale=en" alt="mjlulu02" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjlulu02&show_icons=true&locale=en&layout=compact" alt="mjlulu02" /></p>
