@@ -25,6 +25,5 @@
 ![PyCharm_Logo svg](https://user-images.githubusercontent.com/49725253/89103933-dc153300-d415-11ea-8edd-77f114799102.png)
 
 ## ☄️ Languages
-![java (1)](https://user-images.githubusercontent.com/49725253/89103931-db7c9c80-d415-11ea-9446-4f50238165f0.png) ![python](https://user-images.githubusercontent.com/49725253/89103934-dc153300-d415-11ea-8ea5-3251ebb0f96c.png) ![javascript](https://www.flaticon.com/svg/static/icons/svg/136/136530.svg)
-## 📊 Statistiques
+![java (1)](https://user-images.githubusercontent.com/49725253/89103931-db7c9c80-d415-11ea-9446-4f50238165f0.png) ![python](https://user-images.githubusercontent.com/49725253/89103934-dc153300-d415-11ea-8ea5-3251ebb0f96c.png) <img src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" width="40px" height="40px" />
 <p><img src="https://github-readme-stats.vercel.app/api?username=mjlulu02&show_icons=true&locale=en" alt="mjlulu02" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjlulu02&show_icons=true&locale=en&layout=compact" alt="mjlulu02" /></p>
