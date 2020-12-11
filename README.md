@@ -22,7 +22,7 @@
   
 ## ⚙️ Tools
 
-<img src="https://cdn.discordapp.com/attachments/764516363434852352/787091367285227570/kisspng-eclipse-foundation-integrated-development-environm-eclipse-5ac24212bdda89.221547291522680338.png" width="50px" height="50px" /><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" width="50px" height="50px" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="50px" height="50px" />
+<img src="https://cdn.discordapp.com/attachments/764516363434852352/787091367285227570/kisspng-eclipse-foundation-integrated-development-environm-eclipse-5ac24212bdda89.221547291522680338.png" width="55px" height="55px" /><img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" width="50px" height="50px" /><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="50px" height="50px" />
 
 ## ☄️ Languages
 <img src="https://www.flaticon.com/svg/static/icons/svg/2393/2393313.svg" width="45px" height="45px" /> <img src="https://www.flaticon.com/svg/static/icons/svg/28/28884.svg" width="45px" height="45px" /> <img src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" width="45px" height="45px" />
