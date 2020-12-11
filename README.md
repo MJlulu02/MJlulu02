@@ -15,7 +15,7 @@
 <p align="left">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MJlulu02?color=%231DA1F2&logo=twitter&style=for-the-badge">  <img alt="Discord" src="https://img.shields.io/badge/DISCORD-MJlulu02%236385-%237289DA?style=for-the-badge&logo=discord">
   
-## 🧵 Tools
+## ⚙️ Tools
 
 ![PyCharm_Logo svg](https://user-images.githubusercontent.com/49725253/89103933-dc153300-d415-11ea-8edd-77f114799102.png)
 
