@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **contact@mjlulu02.fr**
 
+## 📚 Projects
+
+- ApiSyncro for Pvp-Faction minecraft server, connects Minage server to Faction server. [*ApiSyncro*](https://github.com/MJlulu02/ApiSyncro-Faction-Minage-Minecraft)
+- Sentence encryption by substitution. [Encryption](https://github.com/MJlulu02/Encryption)
+
 ## ✉️ Contacts
 <p align="left">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MJlulu02?color=%231DA1F2&logo=twitter&style=for-the-badge">  <img alt="Discord" src="https://img.shields.io/badge/DISCORD-MJlulu02%236385-%237289DA?style=for-the-badge&logo=discord">
