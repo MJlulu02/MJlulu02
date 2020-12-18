@@ -15,6 +15,7 @@
 
 - ApiSyncro for Pvp-Faction minecraft server, connects Minage server to Faction server.  [(ApiSyncro)](https://github.com/MJlulu02/ApiSyncro-Faction-Minage-Minecraft)
 - Sentence encryption by substitution.  [(Encryption)](https://github.com/MJlulu02/Encryption)
+- 3 Sorted Algorithms. [(Algorithms)](https://github.com/MJlulu02/Sorted-Algorithms)
 
 ## ✉️ Contacts
 <p align="left">
