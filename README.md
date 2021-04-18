@@ -29,4 +29,6 @@
 <img src="https://www.flaticon.com/svg/static/icons/svg/2393/2393313.svg" width="45px" height="45px" /> <img src="https://www.flaticon.com/svg/static/icons/svg/28/28884.svg" width="45px" height="45px" /> <img src="https://www.flaticon.com/svg/static/icons/svg/136/136530.svg" width="45px" height="45px" />
 
 ## 📊 Statistiques
-<p><img src="https://github-readme-stats.vercel.app/api?username=mjlulu02&show_icons=true&locale=en" alt="mjlulu02" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjlulu02&show_icons=true&locale=en&layout=compact" alt="mjlulu02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJlulu02&theme=blue-green" alt="mjlulu02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MJlulu02&theme=blue-green" alt="mjlulu02" /></p>
