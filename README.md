@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java** & **Python**
 
-- 👯 I collaborate with **@SpinforEat**
+- 👯 I am a CEO of **@Wydavix**
 
 - 📫 How to reach me **contact@mjlulu02.fr**
 
