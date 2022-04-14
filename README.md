@@ -27,9 +27,7 @@
 <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png" width="50px" height="50px" />
 
 ## ☄️ Languages
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 
 ## 📊 Statistiques
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJlulu02&theme=blue-green" alt="mjlulu02" /></p>
